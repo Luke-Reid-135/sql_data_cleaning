@@ -1,1 +1,1 @@
-# sql_data_cleaning
+ This project revolves around the analysis of student mental health from the International University of Malaysia. In this project, I clean the data set usinng SQL, and utilise ncomplex queries to retrieve specific records. I then utilise Power BI to create an aesthetic data-driven Dashboard, highlighting the key insights and conclusions of the data.
